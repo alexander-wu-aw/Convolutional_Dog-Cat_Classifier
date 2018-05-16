@@ -6,4 +6,4 @@ A data set is obtained with 1000 images of cats and dogs, 50% cats, and 50% dogs
 The average accuracy obtained from training the model was around 80%
 
 
-To help apply my knowledge of deep learning, I created this project as part of a Udemy Deep Learning course. 
+This project was built to solidify my knowledge of deep learning, and image based artificial intelligence. I created this project with the help of the Deep Learning A-Z Udemy course. 
